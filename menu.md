@@ -1,5 +1,19 @@
 --menu Ristorante Develhope--
 
+
+
+
+ Antipasti :
+
+Tagliere di salumi e formaggi nostrani   13.00  €
+
+Fritto Misto Rustico                     10.00  €
+
+Tris di pesce affumicato                 12.00  €
+
+
+
+
 PRIMI:
 penne panna e prosciutto - 5.00
 gnocchi al ragù - 7.00
